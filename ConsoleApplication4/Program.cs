@@ -24,8 +24,6 @@ namespace CheckIfNumberIsSemiprime
     {
         private static void Main(string[] args)
         {
-            Jou jjj = new Jou();
-
             Console.WriteLine(Jou.Run(2));
             Console.ReadKey();
         }
